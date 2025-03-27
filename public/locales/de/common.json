@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "title": "Komplexität mit KI in Chancen verwandeln",
+    "description": "Die einzige echte OpenAI-fähige Orchestrierungs-Plattform, die alle Ihre Herausforderungen löst und Ihre funktionale und technische Roadmap erfolgreich umsetzt.",
+    "buttons": {
+      "getStarted": "Jetzt Starten",
+      "learnMore": "Mehr Erfahren"
+    }
+  },
+  "nav": {
+    "platform": "Plattform",
+    "features": "Funktionen",
+    "caseStudies": "Fallstudien",
+    "blog": "Blog",
+    "team": "Team",
+    "support": "Support",
+    "requestDemo": "Demo Anfordern",
+    "login": "Anmelden"
+  }
+}

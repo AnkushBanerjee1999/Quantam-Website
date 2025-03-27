@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "title": "用人工智能将复杂性转化为机遇",
+    "description": "唯一真正支持OpenAI的编排平台，将解决您所有的挑战并成功实施您的功能和技术路线图。",
+    "buttons": {
+      "getStarted": "立即开始",
+      "learnMore": "了解更多"
+    }
+  },
+  "nav": {
+    "platform": "平台",
+    "features": "功能",
+    "caseStudies": "案例研究",
+    "blog": "博客",
+    "team": "团队",
+    "support": "支持",
+    "requestDemo": "申请演示",
+    "login": "登录"
+  }
+}

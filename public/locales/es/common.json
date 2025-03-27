@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "title": "Transformando la complejidad en oportunidad con IA",
+    "description": "La única Plataforma de Orquestación habilitada con OpenAI que resolverá todos tus desafíos e implementará con éxito tu hoja de ruta funcional y técnica.",
+    "buttons": {
+      "getStarted": "Comenzar",
+      "learnMore": "Más Información"
+    }
+  },
+  "nav": {
+    "platform": "Plataforma",
+    "features": "Características",
+    "caseStudies": "Casos de Estudio",
+    "blog": "Blog",
+    "team": "Equipo",
+    "support": "Soporte",
+    "requestDemo": "Solicitar Demo",
+    "login": "Iniciar Sesión"
+  }
+}

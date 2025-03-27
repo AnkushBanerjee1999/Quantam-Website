@@ -1,0 +1,21 @@
+{
+  "hero": {
+    "title": "Step into the future of collaboration with our AI Workforce",
+    "description": "",
+    "buttons": {
+      "getStarted": "Get Started",
+      "learnMore": "Learn More"
+    }
+  },
+  "nav": {
+    "platform": "Platform",
+    "features": "Features",
+    "appStore": "App Store",
+    "blog": "Blog",
+    "team": "Team",
+    "support": "Support",
+    "requestDemo": "Request Demo",
+    "casestudies" : "Case Studies",
+    "login": "Log In"
+  }
+}

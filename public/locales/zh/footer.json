@@ -1,0 +1,23 @@
+{
+  "platform": "Ikon编排平台",
+  "copyright": "版权所有 {{year}} Quantam。保留所有权利。",
+  "bookDemo": "预约演示",
+  "links": {
+    "home": "首页",
+    "platform": "平台",
+    "features": "功能",
+    "team": "团队",
+    "blog": "博客",
+    "caseStudies": "案例研究",
+    "termsOfUse": "使用条款",
+    "support": "支持",
+    "privacyPolicy": "隐私政策",
+    "contact": "联系我们",
+    "sitemap": "网站地图",
+    "faq": "常见问题"
+  },
+  "contact": {
+    "email": "info@Quantam.com",
+    "address": "Quantam FZ-LLC，RAKIA便利中心，12层，1号楼，Al Jazeera Al Hamra，邮箱31291，哈伊马角，阿拉伯联合酋长国"
+  }
+}

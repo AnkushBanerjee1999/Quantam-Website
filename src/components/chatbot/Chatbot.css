@@ -1,0 +1,68 @@
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, #4f46e5, #3b82f6);
+  border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+/* custom-chat-styles.css */
+#n8n-chat {
+  /* Custom styles for the chat container */
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+#n8n-chat {
+  font-family: "Poppins", sans-serif;
+}
+#n8n-chat .chat-header {
+  background-color: rgb(67 56 202);
+}
+#n8n-chat .chat-window-wrapper .chat-window {
+  border: 1px solid #ffffff59;
+  height: 660px;
+  width: 550px;
+}
+#n8n-chat .chat-heading {
+  font-size: 10px;
+}
+#n8n-chat .chat-header {
+  padding: 0.5rem;
+}
+#n8n-chat .chat-messages-list {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}
+#n8n-chat .chat-message-markdown {
+  font-size: 100%;
+}
+#n8n-chat .chat-layout .chat-body {
+  background-color: rgba(17, 24, 39, 0.95);
+}
+#n8n-chat .chat-message.chat-message-from-bot {
+  padding: 6px 10px 6px 10px;
+}
+#n8n-chat .chat-message.chat-message-from-user {
+  padding: 6px 10px 6px 10px;
+  background-color: rgb(67 56 202) ;
+}
+#n8n-chat .chat-inputs > textarea {
+  background-color: rgba(17, 24, 39, 0.95);
+  color: white;
+}
+#n8n-chat .chat-inputs-controls > button {
+  background-color: transparent;
+  color: white;
+}
+#n8n-chat .chat-message-typing {
+ padding: 10px;
+}
+#n8n-chat .chat-window-wrapper .chat-window-toggle {
+  background: rgb(67 56 202)
+ }

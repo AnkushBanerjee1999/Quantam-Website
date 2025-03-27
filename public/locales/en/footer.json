@@ -1,0 +1,25 @@
+{
+  "platform": "Ikon Orchestration Platform",
+  "copyright": "Copyright {{year}} {{logo}}. All Rights Reserved.",
+  "bookDemo": "Book A Demo",
+  "contact": {
+    "title": "Contact Us",
+    "addressTitle": "Our Office",
+    "email": "info@Quantam.com",
+    "address": "Quantam FZ-LLC, RAKIA Amenity Center, 12th Floor, Tower #1, Al Jazeera Al Hamra, PO. Box 31291, Ras Al Khaimah, United Arab Emirates"
+  },
+  "links": {
+    "home": "Home",
+    "platform": "Platform",
+    "features": "Features",
+    "team": "Team",
+    "blog": "Blog",
+    "casestudies": "Case Studies",
+    "termsOfUse": "Terms of Use",
+    "support": "Support",
+    "privacyPolicy": "Privacy Policy",
+    "contact": "Contact",
+    "sitemap": "Sitemap",
+    "faq": "FAQ"
+  }
+}

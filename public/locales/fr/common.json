@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "title": "Transformer la complexité en opportunité avec l'IA",
+    "description": "La seule véritable plateforme d'orchestration compatible OpenAI qui résoudra tous vos défis et mettra en œuvre avec succès votre feuille de route fonctionnelle et technique.",
+    "buttons": {
+      "getStarted": "Commencer",
+      "learnMore": "En Savoir Plus"
+    }
+  },
+  "nav": {
+    "platform": "Plateforme",
+    "features": "Fonctionnalités",
+    "caseStudies": "Études de Cas",
+    "blog": "Blog",
+    "team": "Équipe",
+    "support": "Support",
+    "requestDemo": "Demander une Démo",
+    "login": "Connexion"
+  }
+}

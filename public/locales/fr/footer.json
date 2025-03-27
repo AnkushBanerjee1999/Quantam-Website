@@ -1,0 +1,23 @@
+{
+  "platform": "Plateforme d'Orchestration Ikon",
+  "copyright": "Copyright {{year}} Quantam. Tous droits réservés.",
+  "bookDemo": "Réserver une Démo",
+  "links": {
+    "home": "Accueil",
+    "platform": "Plateforme",
+    "features": "Fonctionnalités",
+    "team": "Équipe",
+    "blog": "Blog",
+    "caseStudies": "Études de Cas",
+    "termsOfUse": "Conditions d'Utilisation",
+    "support": "Support",
+    "privacyPolicy": "Politique de Confidentialité",
+    "contact": "Contact",
+    "sitemap": "Plan du Site",
+    "faq": "FAQ"
+  },
+  "contact": {
+    "email": "info@Quantam.com",
+    "address": "Quantam FZ-LLC, RAKIA Amenity Center, 12ème étage, Tour #1, Al Jazeera Al Hamra, O. Box 31291, Ras Al Khaimah, Émirats Arabes Unis"
+  }
+}
