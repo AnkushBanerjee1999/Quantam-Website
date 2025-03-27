@@ -5,7 +5,7 @@ import { createChat } from '@n8n/chat';
 const Chatbot = () => {
 	useEffect(() => {
         createChat({
-            webhookUrl: 'https://ikoncloud-uat.Quantam.com/aiagent/webhook/38b67ee9-f9d6-4c01-9304-2afa88162a1a/chat',
+            webhookUrl: ,
             webhookConfig: {
                 method: 'POST',
                 headers: {}
