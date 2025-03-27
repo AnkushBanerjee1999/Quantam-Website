@@ -5,7 +5,7 @@ import { createChat } from '@n8n/chat';
 const Chatbot = () => {
 	useEffect(() => {
         createChat({
-            webhookUrl: ,
+            webhookUrl: '',
             webhookConfig: {
                 method: 'POST',
                 headers: {}
