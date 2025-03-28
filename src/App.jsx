@@ -70,7 +70,7 @@ function App() {
             })}
           </Routes>
         </main>
-        <Chatbot />
+        {/* <Chatbot /> */}
         <Footer />
         
         {/* <ChatbotWidget /> */}

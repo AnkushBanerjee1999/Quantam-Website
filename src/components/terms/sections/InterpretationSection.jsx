@@ -19,7 +19,7 @@ const InterpretationSection = () => (
         <h3 className="text-xl font-semibold text-white mb-2">Definitions</h3>
         <ul className="space-y-3">
           <li>
-            <strong>Company</strong> (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Quantam FZ-LLC.
+            <strong>Company</strong> (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Quantam Group.
           </li>
           <li>
             <strong>Service</strong> refers to the Website and all services provided by the Company.

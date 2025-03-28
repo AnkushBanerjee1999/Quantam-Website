@@ -13,7 +13,7 @@ const ContactSection = () => (
         If you have any questions about these Terms and Conditions, You can contact us:
       </p>
       <p className="leading-relaxed">
-        By e-mail: info@Quantam.com
+        By e-mail: info@keross.com
       </p>
     </div>
   </motion.section>

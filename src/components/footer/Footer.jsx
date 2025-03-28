@@ -25,7 +25,7 @@ const Footer = () => {
           {/* Copyright Section with Logo */}
           <p className="text-gray-400 text-sm flex items-center">
             &copy; {currentYear} 
-            <img src={Logo} alt="Quantam Logo" className="h-3 mx-2" /> 
+            <img src={Logo} alt="Quantam Logo" className="h-8" /> 
             {t('All Rights Reserved')}
           </p>
           {/* <LanguageSelector /> */}

@@ -21,7 +21,7 @@ const RequestDemoForm = () => {
     try {
       await sendDemoRequest({
         ...formData,
-        to: 'info@Quantam.com',
+        to: 'info@keross.com',
         subject: `Demo Request from ${formData.firstName} ${formData.lastName} - ${formData.company}`
       });
 

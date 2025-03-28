@@ -23,7 +23,7 @@ const DemoRequestForm = ({ onClose }) => {
     `;
 
     // Create mailto link
-    const mailtoLink = `mailto:info@Quantam.com?subject=Demo Request from ${formData.firstName} ${formData.lastName}&body=${encodeURIComponent(emailContent)}`;
+    const mailtoLink = `mailto:info@keross.com?subject=Demo Request from ${formData.firstName} ${formData.lastName}&body=${encodeURIComponent(emailContent)}`;
     
     // Open email client
     window.location.href = mailtoLink;
